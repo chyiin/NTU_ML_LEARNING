@@ -136,5 +136,3 @@ files.upload()
 !chmod 600 /root/.kaggle/kaggle.json
 
 !kaggle competitions submit -c ml2020spring-hw1 -f submit.csv -m "Message"
-
-!hi
