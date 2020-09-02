@@ -137,3 +137,4 @@ files.upload()
 
 !kaggle competitions submit -c ml2020spring-hw1 -f submit.csv -m "Message"
 
+!hi
